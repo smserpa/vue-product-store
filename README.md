@@ -1,1 +1,1 @@
-# vue-product-store
+# Vue Product Store
